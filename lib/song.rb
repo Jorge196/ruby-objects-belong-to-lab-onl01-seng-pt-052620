@@ -1,2 +1,3 @@
 class Song
-end 
+  belongs to Artist 
+end
