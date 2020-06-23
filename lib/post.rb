@@ -1,3 +1,3 @@
 class Post
-  b
+  belongs to Author 
 end
